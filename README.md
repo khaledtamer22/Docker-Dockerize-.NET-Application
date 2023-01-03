@@ -1,6 +1,6 @@
 # Dockerize .Net core application with docker
 
-1- Open your CLI in the root folder of the application after you download the application
+1- Open your CLI in the root folder of the application after you download the repository
 
 2- Build the image using the following command
 `docker build --tag imageName .`
