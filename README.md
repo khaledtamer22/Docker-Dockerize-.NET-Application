@@ -11,4 +11,4 @@
 Note we choosed port 8080
 
 4- Run you application on localhost
-Go to your web browser and write localhost:8080 then you will find the application home page running.
+Go to your web browser and write `localhost:8080` then you will find the application home page running.
