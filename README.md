@@ -3,10 +3,10 @@
 ## 1- Open your CLI in the root folder of the application after you download the application
 
 ## 2- Build the image using the following command
-'docker build --tag appName .'
+`docker build --tag appName .`
 
 ## 2- Make the container that the application will run on using the following 
-'docker run  -d -p 8080:80 --name hrapp dockerhrapp'
+`docker run  -d -p 8080:80 --name hrapp dockerhrapp`
 
 #Note we choosed port 8080
 
