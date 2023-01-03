@@ -5,8 +5,8 @@
 2- Build the image using the following command
 `docker build --tag imageName .`
 
-3- Make the container that the application will run on using the following 
-`docker run  -d -p 8080:80 --name hrapp containerName`
+3- Make the container that the application will run on using the following command
+`docker run  -d -p 8080:80 --name containerName`
 
 Note we choosed port 8080
 
