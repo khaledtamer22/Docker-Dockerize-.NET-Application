@@ -6,7 +6,7 @@
 `docker build --tag imageName .`
 
 3- Make the container that the application will run on using the following command
-`docker run  -d -p 8080:80 --name containerName`
+`docker run  -d -p 8080:80 --name imageName`
 
 Note we choosed port 8080
 
